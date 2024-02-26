@@ -1,0 +1,17 @@
+Seq_name	Seq_pos	error_type	error_length	ref_base	seq_base
+MN908947_23912_aligned_0_R_0_259_0	251	mis	2	GA	CT
+MN908947_23912_aligned_0_R_0_259_0	250	ins	1	-	C
+MN908947_23912_aligned_0_R_0_259_0	218	ins	2	--	CG
+MN908947_23912_aligned_0_R_0_259_0	205	mis	1	A	T
+MN908947_23912_aligned_0_R_0_259_0	187	del	1	T	-
+MN908947_23912_aligned_0_R_0_259_0	185	ins	2	--	AT
+MN908947_23912_aligned_0_R_0_259_0	183	mis	1	C	T
+MN908947_23912_aligned_0_R_0_259_0	157	mis	1	A	G
+MN908947_23912_aligned_0_R_0_259_0	150	mis	1	T	A
+MN908947_23912_aligned_0_R_0_259_0	143	del	1	G	-
+MN908947_23912_aligned_0_R_0_259_0	113	del	1	C	-
+MN908947_23912_aligned_0_R_0_259_0	98	del	1	T	-
+MN908947_23912_aligned_0_R_0_259_0	97	ins	1	-	C
+MN908947_23912_aligned_0_R_0_259_0	79	mis	1	A	T
+MN908947_23912_aligned_0_R_0_259_0	76	mis	3	ATC	TAT
+MN908947_23912_aligned_0_R_0_259_0	46	ins	1	-	T
